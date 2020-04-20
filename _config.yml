@@ -1,0 +1,8 @@
+title: Voxing
+description: A 2D turn-based HTML5 game where commands are issued through voice rather than menus.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
